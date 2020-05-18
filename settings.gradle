@@ -1,0 +1,2 @@
+include ':app', ':annotationLib'
+rootProject.name='Annotation'
